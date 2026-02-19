@@ -6,9 +6,9 @@ A clean, fast product catalog built entirely with vanilla web technologies. Brow
 
 ---
 
-| **vMobile**  | **vDesktop**  |
-| ------------ | ------------- |
-| ![Mobile](#) | ![Desktop](#) |
+| **vMobile**                                                                                                | **vDesktop**                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![Mobile](https://raw.githubusercontent.com/Nathan-SWE/acadia/refs/heads/main/public/docs/mbile-view.webp) | ![Desktop](https://raw.githubusercontent.com/Nathan-SWE/acadia/refs/heads/main/public/docs/desktop-view.webp) |
 
 ---
 
